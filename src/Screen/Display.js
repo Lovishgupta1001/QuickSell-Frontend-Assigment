@@ -13,7 +13,7 @@ import SignalCellularAlt1BarIcon from "@mui/icons-material/SignalCellularAlt1Bar
 import SignalCellularAlt2BarIcon from "@mui/icons-material/SignalCellularAlt2Bar";
 import SignalCellularAltIcon from "@mui/icons-material/SignalCellularAlt";
 import PriorityHighIcon from "@mui/icons-material/PriorityHigh";
-import { toUpper } from "lodash";
+
 import PendingIcon from "@mui/icons-material/Pending";
 import FiberManualRecordOutlinedIcon from "@mui/icons-material/FiberManualRecordOutlined";
 import ContrastOutlinedIcon from "@mui/icons-material/ContrastOutlined";
